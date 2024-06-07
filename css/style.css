@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Li Alinur Tumatul Unicode';
+    src: url('path/to/LiAlinurTumatulUnicode.ttf') format('truetype');
+  }
+
+  .display-5 {
+    font-family: 'Li Alinur Tumatul Unicode', sans-serif;
+    color: #00B98E; /* Specify color here */
+  }
 /********** Template CSS **********/
 :root {
     --primary: #00B98E;
